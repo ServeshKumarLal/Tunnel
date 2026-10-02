@@ -1,0 +1,7 @@
+{
+  "projectName": "Lumina",
+  "backendUrl": "https://rehab-art-isa-acres.trycloudflare.com",
+  "loggingEnabled": true,
+  "logEndpoint": "/log",
+  "version": 1
+}
