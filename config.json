@@ -1,6 +1,6 @@
 {
   "projectName": "Lumina",
-  "backendUrl": "https://calvin-lan-interim-rugby.trycloudflare.com",
+  "backendUrl": "https://mozilla-merchant-membrane-cookbook.trycloudflare.com",
   "loggingEnabled": true,
   "logEndpoint": "/log",
   "version": 1
